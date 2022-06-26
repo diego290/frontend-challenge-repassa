@@ -1,0 +1,21 @@
+// variables and mixins
+@import "nextjs-material-dashboard-pro/variables";
+@import "nextjs-material-dashboard-pro/mixins";
+@import "nextjs-material-dashboard-pro/shadows";
+
+// plugin css
+@import "nextjs-material-dashboard-pro/plugins/plugin-nouislider";
+@import "nextjs-material-dashboard-pro/plugins/plugin-perfect-scrollbar";
+@import "nextjs-material-dashboard-pro/plugins/plugin-react-datetime";
+@import "nextjs-material-dashboard-pro/plugins/plugin-react-bootstrap-sweetalert";
+@import "nextjs-material-dashboard-pro/plugins/plugin-react-chartist";
+@import "nextjs-material-dashboard-pro/plugins/plugin-react-big-calendar";
+@import "nextjs-material-dashboard-pro/plugins/plugin-react-jvectormap";
+@import "nextjs-material-dashboard-pro/plugins/plugin-react-table";
+@import "nextjs-material-dashboard-pro/plugins/plugin-react-tagsinput";
+
+// Core CSS
+@import "nextjs-material-dashboard-pro/misc";
+@import "nextjs-material-dashboard-pro/fileupload";
+@import "nextjs-material-dashboard-pro/fixed-plugin";
+@import "nextjs-material-dashboard-pro/page-transition";
